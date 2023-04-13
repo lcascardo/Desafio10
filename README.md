@@ -27,7 +27,7 @@ agregando un body en formato raw (json) como el siguiente: <br>
 } <br>
 Al estar completo el objeto deberia realizar la peticion satisfactoriamente <br>
 5-Realizar la misma peticion POST de productos nuevamente, pero 
-en esta instancia agregar un body un objeto donde falten agregar algunos de los
+en esta instancia agregar en el body un objeto donde falten agregar algunos de los
 campos, como el siguiente objeto: <br>
 {
     "description":"descripcion de producto",
